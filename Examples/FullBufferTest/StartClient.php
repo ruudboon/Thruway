@@ -1,5 +1,5 @@
 <?php
-require "../bootstrap.php";
+require __DIR__ . "/../bootstrap.php";
 require __DIR__ . '/FullBufferClient.php';
 require __DIR__ . '/BufferFillerClient.php';
 
